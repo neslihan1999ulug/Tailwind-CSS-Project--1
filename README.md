@@ -1,6 +1,6 @@
 
 ### TASK-1 TAILWIND CSS PROJECT
-### [ PAGE LINK  ]()
+### [ PAGE LINK  ](https://neslihan1999ulug.github.io/Tailwind-CSS-Project--1/)
 
 ![ Page](./src/project-1.png)
 
